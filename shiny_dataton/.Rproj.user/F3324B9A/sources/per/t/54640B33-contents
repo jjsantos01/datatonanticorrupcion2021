@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Montserrat:ital,wght@0,300;0,700;1,300&display=swap');
+
+.small-box {
+  color: white;
+}
+
+.small-box p {
+  color: white;
+}
+
+element.style {
+    text-align: center;
+    margin-top: 0px;
+}
+
+h1, h2, h3, h4 {
+  margin-top: 0px;
+
+}
+
+p, ul {
+  color:gray;
+  font-size: 15px;
+  font-family: Montserrat;
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+p, h1, h2, h3, h4 {
+  font-family: Montserrat;
+}
+
+/*Errores en blanco: */
+.shiny-output-error{color: white;}
+
+/*Fondo Blanco*/
+.content-wrapper, .main-footer, .right-side {
+  background-color: white !important;
+}
+
