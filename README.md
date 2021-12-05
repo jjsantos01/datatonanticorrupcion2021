@@ -35,7 +35,7 @@ Para el caso de las personas que declararon tener 0 de patrimonio, se inspeccion
 
 Adicionalmente, aplicamos un modelo de detección de anomalías no supervisado (isolation Forest) sobre los datos declarados: número y valor de los inmuebles, vehículos e inversiones, nivel educativo, experiencia laboral en sector público y privado, ingreso neto anual, nivel del cargo y profesión. El modelo clasifica a las observaciones como anómalas o no dependiendo de los valores de las variables declaradas. De esta forma encontramos que hay un grupo de funcionarios que normalmente declara grandes montos de patrimonio, pero particularmente llamó la atención que en este grupo el número de vehículos es muy alto (7), así como también el número de vehículos de lujo (3.6) en promedio.
 
-Los resultados se pueden calcular en el siquiente repositorio:
+Los resultados se pueden consultar en el siquiente tablero:
 https://lnppmicrositio.shinyapps.io/dataton_anticorrupcion_2021/
 
 Existencia de funcionarios públicos sancionados
